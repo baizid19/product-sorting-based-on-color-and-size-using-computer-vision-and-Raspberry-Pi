@@ -1,5 +1,5 @@
 # Design and Development of AI Supported Belt Conveyor
-<p>Project Description:</p>
+<strong>Project Description:</strong>
 <p>The "Artificial Intelligence Supported Belt Conveyor" is a machine learning project that aims to sort and count products on a moving conveyor belt. The system utilizes various computer vision techniques to detect and classify different types of products on the belt, and a deep learning model is used to count and keep track of the number of products passing through the conveyor belt.
 
 The proposed system comprises of a camera-based sensing system, which captures the images of products on the conveyor belt, and a high-speed computer processor, which is equipped with a deep learning model. The deep learning model is designed and trained to recognize and classify different products, based on their shape, size, and color. Additionally, it counts the number of products that pass through the conveyor belt and stores the data for further analysis.
